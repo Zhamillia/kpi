@@ -1,0 +1,68 @@
+{
+  "students": [
+    {
+      "surname": "Lee",
+      "name": "Min ",
+      "number": 12345,
+      "weekKpi": "500",
+      "monthKpi": "100",
+      "id": 2
+    },
+    {
+      "surname": "Sultangazieva",
+      "name": "Jamilya",
+      "number": 12345565,
+      "weekKpi": "12345",
+      "monthKpi": "12345",
+      "id": 4
+    },
+    {
+      "surname": "edf",
+      "name": "qwef",
+      "number": 234,
+      "weekKpi": "345",
+      "monthKpi": "23456",
+      "id": 6
+    },
+    {
+      "surname": "Rtfg",
+      "name": "ads",
+      "number": 12345,
+      "weekKpi": "50",
+      "monthKpi": "200",
+      "id": 8
+    },
+    {
+      "surname": "Lee",
+      "name": "Jane",
+      "number": 12376543,
+      "weekKpi": "70",
+      "monthKpi": "400",
+      "id": 9
+    },
+    {
+      "surname": "fds",
+      "name": "sfs",
+      "number": 234,
+      "weekKpi": "34",
+      "monthKpi": "355",
+      "id": 10
+    },
+    {
+      "surname": null,
+      "name": null,
+      "number": 0,
+      "weekKpi": null,
+      "monthKpi": null,
+      "id": 11
+    },
+    {
+      "surname": "nsk",
+      "name": "wdf",
+      "number": 234,
+      "weekKpi": "21345",
+      "monthKpi": "2345",
+      "id": 12
+    }
+  ]
+}
